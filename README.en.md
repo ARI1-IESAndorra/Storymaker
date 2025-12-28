@@ -1,6 +1,8 @@
 📄 Leer este README en otros idiomas:
 - [Español](README.md)
 
+![Imagen promocional Atrapavientos](docs/images/cajas.png)
+
 # The Amazing Story Generator Machine
 
 This repository collects and organizes all the technical resources required to replicate, adapt, and improve **The Amazing Story Generator Machine**, an interactive physical device designed to promote reading among children and young people, built entirely with **open hardware and open-source software**.
