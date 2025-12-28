@@ -1,7 +1,9 @@
 📄 Leer este README en otros idiomas:
 - [Español](README.md)
 
-![Imagen promocional Atrapavientos](docs/images/cajas.png)
+<p align="center">
+  <img src="docs/images/cajas.png" alt="Imagen promocional Atrapavientos" width="400"/>
+</p>
 
 # The Amazing Story Generator Machine
 
