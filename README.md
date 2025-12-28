@@ -4,7 +4,7 @@ Este repositorio recopila y organiza todos los recursos técnicos necesarios par
 
 El objetivo es claro: transformar un artefacto creativo en un sistema **documentado, reproducible y accesible**, apto para su construcción en centros educativos, bibliotecas, espacios culturales o makerspaces, sin dependencia de soluciones propietarias.
 
-Aquí no hay magia. Hay electrónica, código, mecánica y documentación bien explicada.
+Aquí no hay magia. Hay electrónica, código, mecánica y documentación bien explicada. La magia ocurre luego, en los talleres de escritura creativa donde se usa como ayuda este dispositivo.
 
 ---
 
