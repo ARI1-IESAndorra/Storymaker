@@ -9,7 +9,7 @@
 
 Este repositorio recopila y organiza todos los recursos técnicos necesarios para replicar, adaptar y mejorar **La Asombrosa Máquina de Generar Historias**, un dispositivo físico interactivo destinado al fomento de la lectura infantil y juvenil, basado íntegramente en **hardware y software libre**.
 
-El objetivo es claro: transformar un artefacto creativo en un sistema **documentado, reproducible y accesible**, apto para su construcción en centros educativos, bibliotecas, espacios culturales o makerspaces, sin dependencia de soluciones propietarias.
+El objetivo es claro: transformar un artefacto creativo en un sistema **documentado, reproducible y accesible**, apto para su construcción en centros educativos, bibliotecas, espacios culturales o maker, sin dependencia de soluciones propietarias.
 
 Aquí no hay magia. Hay electrónica, código, mecánica y documentación bien explicada. La magia ocurre luego, en los talleres de escritura creativa donde se usa como ayuda este dispositivo.
 
