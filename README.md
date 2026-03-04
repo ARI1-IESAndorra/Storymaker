@@ -1,10 +1,6 @@
 📄 Read this README in other languages:
 - [English](README.en.md)
 
-<p align="center">
-  <img src="docs/images/cajas.png" alt="Imagen promocional Atrapavientos" width="400"/>
-</p>
-
 # La Asombrosa Máquina de Generar Historias
 
 Este repositorio recopila y organiza todos los recursos técnicos necesarios para replicar, adaptar y mejorar **La Asombrosa Máquina de Generar Historias**, un dispositivo físico interactivo destinado al fomento de la lectura infantil y juvenil, basado íntegramente en **hardware y software libre**.
@@ -13,6 +9,9 @@ El objetivo es claro: transformar un artefacto creativo en un sistema **document
 
 Aquí no hay magia. Hay electrónica, código, mecánica y documentación bien explicada. La magia ocurre luego, en los talleres de escritura creativa donde se usa como ayuda este dispositivo.
 
+<p align="center">
+  <img src="docs/images/cajas.png" alt="Imagen promocional Atrapavientos" width="400"/>
+</p>
 ---
 
 ## ¿Qué es este proyecto?
