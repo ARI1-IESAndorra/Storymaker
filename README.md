@@ -13,6 +13,7 @@ Aquí no hay magia. Hay electrónica, código, mecánica y documentación bien e
 <p align="center">
   <img src="docs/images/cajas.png" alt="Imagen promocional Atrapavientos" width="400"/>
 </p>
+
 ---
 
 ## ¿Qué es este proyecto?
