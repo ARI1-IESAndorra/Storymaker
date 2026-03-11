@@ -11,7 +11,7 @@ Aquí no hay magia. Hay electrónica, código, mecánica y documentación bien e
 
 
 <p align="center">
-  <img src="IMÁGENES/RESULTADOS/STORY MAKER.png" alt="Imagen promocional Atrapavientos" width="400"/>
+  <img src="IMÁGENES/RESULTADOS/STORY MAKER.jpg" alt="Imagen promocional Atrapavientos" width="400"/>
 </p>
 
 ---
