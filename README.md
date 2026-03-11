@@ -10,6 +10,7 @@ El objetivo es claro: transformar un artefacto creativo en un sistema **document
 Aquí no hay magia. Hay electrónica, código, mecánica y documentación bien explicada. La magia ocurre luego, en los talleres de escritura creativa donde se usa como ayuda este dispositivo.
 
 
+
 <p align="center">
   <img src="IMÁGENES/RESULTADOS/STORY MAKER.jpg" alt="Imagen promocional Atrapavientos" width="400"/>
 </p>
